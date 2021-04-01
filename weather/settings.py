@@ -27,7 +27,7 @@ SOCIAL_AUTH_GITHUB_SECRET = '471f453e2105eeeef8a7db85d3dbcc219a1eb37e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1',".ngrok.io",'webauth.org']
+ALLOWED_HOSTS = ['127.0.0.1',".ngrok.io",'webauth.org','getwt.herokuapp.com']
 LOGIN_REDIRECT_URL='index'
 
 # Application definition
