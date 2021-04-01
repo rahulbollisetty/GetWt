@@ -25,7 +25,7 @@ SECRET_KEY = 'd8v9(p=#7o5^s03va-k$&p6-$^jg(@3v9g2$wf7x3h-m!4vh7f'
 SOCIAL_AUTH_GITHUB_KEY = '2bba20c7137613b0f5b7'
 SOCIAL_AUTH_GITHUB_SECRET = '471f453e2105eeeef8a7db85d3dbcc219a1eb37e'
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1',".ngrok.io",'webauth.org','getwt.herokuapp.com']
 LOGIN_REDIRECT_URL='index'
